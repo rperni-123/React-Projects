@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot testing testing footer 1`] = `
+<header>
+  <div
+    className="logo"
+  >
+    Edureka
+  </div>
+  <center>
+    <input
+      onChange={[Function]}
+    />
+    <div
+      id="test"
+      style={
+        Object {
+          "color": "white",
+          "fontSize": "15px",
+        }
+      }
+    >
+      user input here
+    </div>
+  </center>
+  <hr />
+</header>
+`;

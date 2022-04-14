@@ -1,0 +1,55 @@
+
+    [
+        {   
+        "id": 1,
+        "title": "RRR",
+        "image": "https://bloggyblogger.com/wp-content/uploads/2022/03/RRR-Full-Movie-Download-in-hindi-480p-1.jpg",        
+        "Rating": "3.5/10",
+        "Duration": "3:00 Hrs",
+        "Date": "1st Apr,2022",
+        "prices": {
+        "normal": 200,
+        "superior": 300,
+        "sofa": 600
+            }
+        },
+        {   
+            "id": 2,
+            "title": "JALSA",
+            "image": "https://www.pinkvilla.com/imageresize/vd_4_0.jpg?width=752&format=webp&t=pvorg",            
+            "Rating": "3.5/10",
+            "Duration": "3:00 Hrs",
+            "Date": "1st Apr,2022",
+            "prices": {
+            "normal": 200,
+            "superior": 300,
+            "sofa": 600
+                }
+        },
+        {   
+            "id": 3,
+            "title": "JAI BHIM",
+            "image": "https://www.pinkvilla.com/imageresize/jai_bhim_out_of_oscar.jpg?width=752&format=webp&t=pvorg",            
+            "Rating": "3.5/10",
+            "Duration": "3:00 Hrs",
+            "Date": "1st Apr,2022",
+            "prices": {
+            "normal": 200,
+            "superior": 300,
+            "sofa": 600
+                }
+        },
+        {   
+            "id": 4,
+            "title": "GANGUBAI",
+            "image": "https://www.filmibeat.com/img/196x261/popcorn/movie_posters/gangubaikathiawadi-20200116102213-18864.jpg",            
+            "Rating": "3.5/10",
+            "Duration": "3:00 Hrs",
+            "Date": "1st Apr,2022",
+            "prices": {
+            "normal": 200,
+            "superior": 300,
+            "sofa": 600
+                }
+        }
+    ]

@@ -1,0 +1,51 @@
+#buttonPadding{
+    margin-top: 49px;
+    margin-bottom: 25px;
+}
+#btnStyle{
+    height: 75px;
+    width: 300px;
+    border: 3px solid rgba(226, 221, 221, 0.918);      
+    font-size: large;
+}
+#imgStyle{
+    width:100%;
+    height:400px
+}
+
+#myCarousel{
+    margin-bottom: 10px;
+}
+
+#bookBtn{   
+    width:100%
+}
+
+#headerStyle{
+    margin-bottom: 200px;  
+}
+
+#box{
+    /* border: 1px solid brown;    
+    height:100px;
+    width:100px; */
+    box-sizing: content-box;  
+    width: 800px;
+    height: 300px;
+    padding: 30px;  
+    border: 2px solid rgba(0, 0, 0, 0.603);    
+    margin: auto;
+    /* width: 50%; */
+}
+
+#imgdetail{
+    height:270px;
+    width:300px;
+   
+}
+
+.form-check-inline{
+    display:inline;
+    /* margin-left: 10px; */
+    margin-inline-end: 10px;
+}

@@ -1,0 +1,22 @@
+.card {
+    border-radius: 5%;
+    background: #051258b0;
+    color: #fff;
+    margin-left:3%;    
+    height:400px;
+    width:250px;
+    margin-top:2%;
+}
+
+img{
+    border-color: #051258b0;
+    border-style: double;
+    height: 250px;
+    width: 250px;
+}
+
+.topTemp{
+    font-size:20px;
+    color:white;   
+    text-align: justify;
+  }

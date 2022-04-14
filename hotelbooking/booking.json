@@ -1,0 +1,58 @@
+{
+  "booking": [
+    {
+      "id": 69264,
+      "hotel_name": "Vivaan - The Sun Rise",
+      "name": "Aakash",
+      "phone": "765675657",
+      "date": "2022-02-08",
+      "email": "aakash@gmail.com",
+      "cost": "3134"
+    },
+    {
+      "id": 61067,
+      "hotel_name": "Vivaan - The Sun Rise",
+      "name": "Aakash",
+      "phone": "765675657",
+      "date": "",
+      "email": "aakash@gmail.com",
+      "cost": "3134"
+    },
+    {
+      "id": 89875,
+      "hotel_name": "Vivaan - The Sun Rise",
+      "name": "Aakash",
+      "phone": "765675657",
+      "date": "2022-02-03",
+      "email": "aakash@gmail.com",
+      "cost": "3134"
+    },
+    {
+      "id": 1207,
+      "hotel_name": "Vivaan - The Sun Rise",
+      "name": "Aakash",
+      "phone": "765675657",
+      "date": "",
+      "email": "aakash@gmail.com",
+      "cost": "3134"
+    },
+    {
+      "id": 16211,
+      "hotel_name": "Vivaan - The Sun Rise",
+      "name": "Ravali",
+      "phone": "765675657",
+      "date": "2022-02-24",
+      "email": "ravali@gmail.com",
+      "cost": "3134"
+    },
+    {
+      "id": 71715,
+      "hotel_name": "Vivaan - The Sun Rise",
+      "name": "Aakash",
+      "phone": "765675657",
+      "date": "",
+      "email": "aakash@gmail.com",
+      "cost": "3134"
+    }
+  ]
+}

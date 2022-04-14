@@ -1,0 +1,81 @@
+{
+  "coursedetail": [
+    {
+      "id": 1,
+      "name": "React.js",
+      "cost": 20000
+    },
+    {
+      "id": 2,
+      "name": "Java",
+      "cost": 20000
+    },
+    {
+      "id": 3,
+      "name": "Python",
+      "cost": 20000
+    },
+    {
+      "id": 4,
+      "name": "Angular.js",
+      "cost": 20000
+    },
+    {
+      "id": 5,
+      "name": "Node.js",
+      "cost": 20000
+    },
+    {
+      "id": 6,
+      "name": "Django",
+      "cost": 20000
+    },
+    {
+      "id": 7,
+      "name": "Flask",
+      "cost": 20000
+    },
+    {
+      "id": 8,
+      "name": "MongoDB",
+      "cost": 20000
+    }
+  ],
+  "enquiredetail": [
+    {
+      "name": "Ravali Perni",
+      "emailid": "ravali@gmail.com",
+      "Mobile": "985265481276",
+      "Query": "agdahnjchioadnkl",
+      "id": 1
+    },
+    {
+      "name": "",
+      "emailid": "",
+      "Mobile": "",
+      "Query": "",
+      "id": 2
+    },
+    {
+      "name": "",
+      "emailid": "",
+      "Mobile": "",
+      "Query": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "emailid": "",
+      "Mobile": "",
+      "Query": "",
+      "id": 4
+    },
+    {
+      "name": "",
+      "emailid": "",
+      "Mobile": "",
+      "Query": "",
+      "id": 5
+    }
+  ]
+}
